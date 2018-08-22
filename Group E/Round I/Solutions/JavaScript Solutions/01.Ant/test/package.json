@@ -1,0 +1,20 @@
+{
+  "name": "01.ant",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ant.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "chai": "4.1.2"
+  },
+  "devDependencies": {
+    "mocha": "5.2.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "EN",
+  "license": "MIT"
+}
